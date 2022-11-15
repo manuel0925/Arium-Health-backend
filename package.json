@@ -1,0 +1,23 @@
+{
+  "name": "pocket-api",
+  "version": "1.0.0",
+  "description": "examen de evaluacion-aryum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Emmanuel guzman \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[G\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CEncarnacion",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "express-validator": "^6.14.2",
+    "mongoose": "^6.7.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
